@@ -6,7 +6,7 @@
 
 13.03.2017 - *Narzędzia do modelowania (głównie UML)* [Kamil Gnela]
 
-13.03.2017 - *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*  [Dawid Nosal]
+13.03.2017 - *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*  [Dawid Nosal][Janusz Walnik]
 
 27.03.2017 - *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
 
